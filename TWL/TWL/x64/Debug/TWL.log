@@ -1,0 +1,115 @@
+﻿  DetectCollisions.cpp
+E:\Visual Studio Stuff\Projects\TWL\TWL\DetectCollisions.cpp(12,16): warning C4244: '=': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Visual Studio Stuff\Projects\TWL\TWL\DetectCollisions.cpp(13,17): warning C4244: '=': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Visual Studio Stuff\Projects\TWL\TWL\DetectCollisions.cpp(35,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Visual Studio Stuff\Projects\TWL\TWL\DetectCollisions.cpp(35,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Visual Studio Stuff\Projects\TWL\TWL\DetectCollisions.cpp(39,44): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+E:\Visual Studio Stuff\Projects\TWL\TWL\DetectCollisions.cpp(48,19): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Visual Studio Stuff\Projects\TWL\TWL\DetectCollisions.cpp(49,18): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Visual Studio Stuff\Projects\TWL\TWL\DetectCollisions.cpp(57,47): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  Draw.cpp
+  Engine.cpp
+E:\Visual Studio Stuff\Projects\TWL\TWL\Engine.cpp(8,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Visual Studio Stuff\Projects\TWL\TWL\Engine.cpp(9,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Visual Studio Stuff\Projects\TWL\TWL\Engine.cpp(11,52): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Visual Studio Stuff\Projects\TWL\TWL\Engine.cpp(11,38): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Input.cpp
+  LoadLevel.cpp
+E:\Visual Studio Stuff\Projects\TWL\TWL\LoadLevel.cpp(25,42): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+E:\Visual Studio Stuff\Projects\TWL\TWL\LoadLevel.cpp(26,39): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  Main.cpp
+  PopulateEmitters.cpp
+E:\Visual Studio Stuff\Projects\TWL\TWL\PopulateEmitters.cpp(8,22): warning C4834: discarding return value of function with 'nodiscard' attribute
+E:\Visual Studio Stuff\Projects\TWL\TWL\PopulateEmitters.cpp(23,61): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Visual Studio Stuff\Projects\TWL\TWL\PopulateEmitters.cpp(23,50): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Visual Studio Stuff\Projects\TWL\TWL\PopulateEmitters.cpp(23,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Visual Studio Stuff\Projects\TWL\TWL\PopulateEmitters.cpp(23,22): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Visual Studio Stuff\Projects\TWL\TWL\PopulateEmitters.cpp(26,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Visual Studio Stuff\Projects\TWL\TWL\PopulateEmitters.cpp(26,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Visual Studio Stuff\Projects\TWL\TWL\PopulateEmitters.cpp(31,31): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Visual Studio Stuff\Projects\TWL\TWL\PopulateEmitters.cpp(32,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Visual Studio Stuff\Projects\TWL\TWL\PopulateEmitters.cpp(33,40): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Visual Studio Stuff\Projects\TWL\TWL\PopulateEmitters.cpp(34,41): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Update.cpp
+  Generating Code...
+  TWL.vcxproj -> E:\Visual Studio Stuff\Projects\TWL\x64\Debug\TWL.exe
